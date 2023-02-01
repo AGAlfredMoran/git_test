@@ -1,3 +1,3 @@
 # git_test
-1St GtitHub Repo
+1St GitHub Repo
 Hello Odin!
